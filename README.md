@@ -58,7 +58,7 @@ Build fAInance from the source and install dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Manu040405/Spendo-ai
+   https://github.com/sidThearth/fAInance/tree/main
    ```
 
 2. **Navigate to the project directory:**
