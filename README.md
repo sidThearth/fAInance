@@ -58,7 +58,7 @@ Build fAInance from the source and install dependencies:
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/sidThearth/fAInance/tree/main
+   https://github.com/sidThearth/fAInance.git
    ```
 
 2. **Navigate to the project directory:**
