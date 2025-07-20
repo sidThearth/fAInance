@@ -63,7 +63,7 @@ Build fAInance from the source and install dependencies:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd Spendo-ai
+   cd fAInance
    ```
 
 3. **Install the dependencies:**
