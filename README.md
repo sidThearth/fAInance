@@ -1,5 +1,5 @@
 
-# SPENDO-AI
+# fAInance
 
 **Empowering Smarter Finances Through AI Innovation**
 
