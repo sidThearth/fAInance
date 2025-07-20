@@ -37,7 +37,7 @@
 
 ## 📌 Overview
 
-**Spendo-AI** is an AI-powered finance assistant that helps users track, manage, and analyze their personal spending. It uses intelligent categorization and modern UI practices to offer a smart, user-friendly experience.
+**fAInance** is an AI-powered finance assistant that helps users track, manage, and analyze their personal spending. It uses intelligent categorization and modern UI practices to offer a smart, user-friendly experience.
 
 ---
 
@@ -54,7 +54,7 @@ This project requires the following dependencies:
 
 ### 🔧 Installation
 
-Build Spendo-ai from the source and install dependencies:
+Build fAInance from the source and install dependencies:
 
 1. **Clone the repository:**
    ```bash
@@ -88,7 +88,7 @@ npm start
 
 ### 🧪 Testing
 
-Spendo-ai uses the **Jest** test framework. Run the test suite with:
+fAInance uses the **Jest** test framework. Run the test suite with:
 
 Using npm:
 ```bash
@@ -97,4 +97,4 @@ npm test
 
 ---
 
-🔼 [Return to Top](#spendo-ai)
+🔼 [Return to Top](#fAInance)
